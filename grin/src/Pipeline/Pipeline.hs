@@ -118,7 +118,7 @@ import Control.Monad.Extra
 import System.Random
 import Data.Time.Clock
 import Data.Fixed
-import Data.Functor.Infix
+import Data.Functor.Syntax
 import Data.Maybe (isNothing)
 import System.IO (BufferMode(..), hSetBuffering, stdout)
 import Data.Binary as Binary
